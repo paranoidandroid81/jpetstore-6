@@ -220,7 +220,7 @@
           <version>${dependency.check.maven.version}</version>
           <configuration>
             <failBuildOnCVSS>${dependency.check.maven.failBuildOnCVSS}</failBuildOnCVSS>
-	    <dependency.check.maven.failBuildOnCVSS>8</dependency.check.maven.failBuildOnCVSS>	
+	    <dependency.check.maven.failBuildOnCVSS>11</dependency.check.maven.failBuildOnCVSS>	
             <formats>HTML,XML</formats>
           </configuration>
           <executions>
